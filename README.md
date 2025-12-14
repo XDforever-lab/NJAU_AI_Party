@@ -9,7 +9,7 @@
 ## 安装与运行步骤
 1. 克隆本仓库到本地：
     ```bash
-    git clone [你的GitHub仓库地址]
+    git clone git clone https://github.com/3125189495-lab/NJAU_AI_Party.git
     ```
 2. 进入项目目录：
     ```bash
@@ -32,4 +32,5 @@
 
 ## 注意事项
 - API Key 需自行注册获取，且确保网络可访问 Moonshot API 服务；
+
 - 项目中的图片素材为南农大相关资料，仅供学习展示使用。
